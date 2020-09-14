@@ -17,19 +17,21 @@ Here are some ideas to get you started:
 
 <p>
   <samp>
-    👋 Hola 👋 Soy Fernando Valdes! 
+    👋 Hola 👋 Soy Fernando Valdes!
+    <br>
     Muchas gracias por visitar mi perfil.
+    <br>
     Espero poder ayudarte!
   </samp>
 </p>
 <p>
 <br>
     En mis repos de Github vas a poder encontrar varias pruebas de concepto y algunos proyectos presentados en hackathones.
-    <br>
+    <br><br>
     Te invito a ver mi [web personal](http://fervaldes.com) donde vas a poder encontrar artículos interesantes que estoy seguro que te servirán.
-    <br>
+    <br><br>
     También podés conectar conmigo en [Linkedin](https://www.linkedin.com/in/fervaldes/), ahí me podrás enviar un mensaje para que podamos charlar sobre cualquier temática sobre problemáticas de desarrollo de apĺicaciones.
-    <br>
+    <br><br>
     Además podes seguirme en Instragram [@ktufernando](https://www.instagram.com/ktufernando), ya que podrás ver material muy valioso para programadores.
 </p>
 
