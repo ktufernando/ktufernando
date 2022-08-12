@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <br>
     En mis repos de Github vas a poder encontrar varias pruebas de concepto y algunos proyectos presentados en hackathones.
     <br><br>
-    Te invito a ver mi <a href="http://fervaldes.com" target="_blank"> web personal </a> donde vas a poder encontrar artículos interesantes que estoy seguro que te servirán.
+    Te invito a ver mi <a href="https://ktufernando.github.io/" target="_blank"> web personal </a> donde vas a poder encontrar artículos interesantes que estoy seguro que te servirán.
     <br><br>
     También podés conectar conmigo en <a href="https://www.linkedin.com/in/fervaldes/" target="_blank"> Linkedin </a>, ahí podrás enviarme un mensaje para que podamos charlar sobre cualquier temática sobre problemáticas de desarrollo de apĺicaciones.
     <br><br>
